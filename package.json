@@ -1,0 +1,8 @@
+{
+  "name": "biblioteca",
+  "private": true,
+  "dependencies": {
+    "react-autocomplete": "^1.5.10",
+    "react-select": "^1.0.0-rc.5"
+  }
+}

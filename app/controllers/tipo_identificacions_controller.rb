@@ -1,0 +1,2 @@
+class TipoIdentificacionsController < ApplicationController
+end
